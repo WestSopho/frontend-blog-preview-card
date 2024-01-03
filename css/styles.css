@@ -2,20 +2,27 @@
 @font-face {
     font-family: "Figtree";
     src: url(/assets/fonts/Figtree-VariableFont_wght.ttf) format("woff2 supports variations");
+    font-weight: 600 800;
 }
+
 @font-face {
     font-family: "Figtree Italic";
     src: url(/assets/fonts/Figtree-Italic-VariableFont_wght.ttf) format("woff2 supports variations");
+    font-weight: 600 800;
 }
 
 :root{
     /* Fonts */
-
+    --font: "Figtree", sans-serif;
+    --italic: "Figtree Italic", sans-serif;
 
     /* Primary Colors */
-
+    --primary-color: hsl(47, 88%, 63%)
 
     /* Neutral Colors */
+    --neutral-color-1: hsl(0, 0%, 100%);
+    --neutral-color-2: hsl(0, 0%, 50%);
+    --neutral-color-3: hsl(0, 0%, 7%);
 
 
   }
