@@ -1,10 +1,20 @@
+/* Import font files */
+@font-face {
+    font-family: "Figtree";
+    src: url(/assets/fonts/Figtree-VariableFont_wght.ttf) format("woff2 supports variations");
+}
+@font-face {
+    font-family: "Figtree Italic";
+    src: url(/assets/fonts/Figtree-Italic-VariableFont_wght.ttf) format("woff2 supports variations");
+}
+
 :root{
     /* Fonts */
 
 
     /* Primary Colors */
 
-    
+
     /* Neutral Colors */
 
 
