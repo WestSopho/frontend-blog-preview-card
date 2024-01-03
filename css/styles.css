@@ -11,6 +11,7 @@
     font-weight: 600 800;
 }
 
+/* Declare variables within root */
 :root{
     /* Fonts */
     --font: "Figtree", sans-serif;
@@ -24,24 +25,23 @@
     --neutral-color-2: hsl(0, 0%, 50%);
     --neutral-color-3: hsl(0, 0%, 7%);
 
-
   }
-  
+
+  /* Normalize HTML and use borders*/
   *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 1px solid red;
   }
-  
-  html{
-    font-size: 62.5%;
-  }
-  
+
+  /* Take all height of the viewport */
   html, body{
     height: 100%;
   }
   
+  /* Set body width and font-family */
+
   body{
     width: 100%;
-    font-family: var(--font);
   }
