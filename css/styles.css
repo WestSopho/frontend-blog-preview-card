@@ -72,5 +72,19 @@ body{
 }
 
 /* Gap between div elements in card */
+.card-img, .card-content, .card-author{
+    margin: 24px 0;
+}
 
+/* Card Category */
+.category{
+    width: fit-content;
+    height: fit-content;
+    padding: 1vmin 2vmin;
+    color: var(--neutral-color-3);
+    font-weight: bold;
+    background-color: var(--primary-color);
+    border-radius: 1vmin;
+
+}
 
