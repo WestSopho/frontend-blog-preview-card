@@ -109,3 +109,15 @@ body{
     color: var(--neutral-color-2)
 }
 
+/* Image fitting */
+.card-img > img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 1vmin;
+}
+
+/* Author Information */
+.card-author > img{
+    display: block;
+}
