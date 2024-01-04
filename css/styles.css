@@ -44,9 +44,26 @@ body{
     width: 100%;
     font-family: var(--font);
     background-color: var(--primary-color);
+    display: relative;
 }
 
+/* Card */
+.card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+}
 
+/* Attribution */
+.attribution{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+}
 
 
 
