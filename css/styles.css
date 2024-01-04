@@ -30,7 +30,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid red;
 }
 
 /* Take all height of the viewport */
@@ -121,3 +120,4 @@ body{
 .card-author > img{
     display: block;
 }
+
