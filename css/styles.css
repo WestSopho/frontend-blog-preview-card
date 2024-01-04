@@ -88,3 +88,24 @@ body{
 
 }
 
+/* Paragraph elements within card-content */
+.card-content > p{
+    margin: 2vmin 0;
+}
+
+/* Title */
+.title{
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+/* Publish date */
+.publish-date{
+    font-size: 0.75rem;
+}
+
+/* Description */
+.description{
+    font-size: 1rem;
+    color: var(--neutral-color-2)
+}
