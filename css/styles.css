@@ -106,6 +106,6 @@ body{
 
 /* Description */
 .description{
-    font-size: 1rem;
     color: var(--neutral-color-2)
 }
+
