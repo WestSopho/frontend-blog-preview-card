@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/WestSopho/frontend-blog-preview-card)
-- Live Site URL: [Add live site URL here](https://westsopho.github.io/frontend-blog-preview-card/)
+- Solution URL: [Link](https://github.com/WestSopho/frontend-blog-preview-card)
+- Live Site URL: [Link](https://westsopho.github.io/frontend-blog-preview-card/)
 
 ## My process
 
